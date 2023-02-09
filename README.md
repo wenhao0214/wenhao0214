@@ -1,4 +1,4 @@
-### Hi there I'm Wenhao Wu👋
+### Hi there, I'm Wenhao Wu👋
 
 <!--
 **wenhao0214/wenhao0214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
